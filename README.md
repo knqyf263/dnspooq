@@ -3,11 +3,15 @@ DNSpooq PoC - dnsmasq cache poisoning (CVE-2020-25686, CVE-2020-25684, CVE-2020-
 
 For educational purposes only
 
+
+
 ## Requirements
 - Docker compose
 - Docker
 
 ## Exploit
+
+![dnspooq](imgs/dnspooq.png)
 
 ### Launch containers
 
